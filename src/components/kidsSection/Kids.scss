@@ -1,0 +1,27 @@
+.kids{
+      width: 90%;
+      height: 80vh;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      .left{
+            height: 100%;
+      }
+      .right{
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-content: center;
+
+            h1{
+                  color: #fff;
+                  margin-bottom: 30px;
+            }
+            p{
+                  color: #fff;
+                  width: 75%;
+                  line-height: 25px;
+            }
+      }
+}

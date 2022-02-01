@@ -1,0 +1,44 @@
+.watching{
+      width: 90%;
+      height: 80vh;
+      margin: auto;
+      display: flex;
+
+      .left{
+            height: 100%;
+            width: 45%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            
+
+            h1{
+                  color: #fff;
+                  margin-bottom: 30px;
+            }
+            p{
+                  color: #fff;
+                  width: 75%;
+                  line-height: 25px;
+            }
+      }
+      .right{
+            height: 100%;
+            width: 45%;
+            .watch_video{
+                  position: relative;
+                  width: 100%;
+
+                  img{
+                        position: absolute;
+                        z-index: 1;
+                  }
+                  video{
+                        width: 400px;
+                        position: absolute;
+                        top: 50px;
+                        left: 120px;                    
+                  }
+            }
+      }
+}

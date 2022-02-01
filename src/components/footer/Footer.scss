@@ -1,0 +1,43 @@
+.footer{
+      width: 100%;
+      height: 55vh;
+      margin-top: 50px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      &::before{
+            content: '';
+            width: 100%;
+            position: absolute;
+            height: 10px;
+            background-color: #222222;
+      }
+      .footer_section{
+            display: flex;
+            justify-content: space-between;
+            width: 80%;
+            margin: auto;
+            .list{
+                  width: 20%;
+                  li{
+                        color: #fff;
+                        list-style: none;
+                        margin-bottom: 15px;
+                        cursor: pointer;
+                        transition: all .3s ease-in-out;
+                        &:hover{
+                              color: crimson;
+                        }
+                  }
+            }
+      }
+      .netflix_title{
+            width: 80%;
+            height: 30px;
+            margin: auto;
+            h3{
+                  text-align: center;
+                  color: #fff;
+            }
+      }
+}
