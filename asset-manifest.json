@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Clone-Netflix-App-with-Reactjs/static/css/main.960f8fcd.chunk.css",
-    "main.js": "/Clone-Netflix-App-with-Reactjs/static/js/main.ffd6b437.chunk.js",
-    "main.js.map": "/Clone-Netflix-App-with-Reactjs/static/js/main.ffd6b437.chunk.js.map",
-    "runtime-main.js": "/Clone-Netflix-App-with-Reactjs/static/js/runtime-main.6ca1b3f5.js",
-    "runtime-main.js.map": "/Clone-Netflix-App-with-Reactjs/static/js/runtime-main.6ca1b3f5.js.map",
-    "static/js/2.95009927.chunk.js": "/Clone-Netflix-App-with-Reactjs/static/js/2.95009927.chunk.js",
-    "static/js/2.95009927.chunk.js.map": "/Clone-Netflix-App-with-Reactjs/static/js/2.95009927.chunk.js.map",
-    "index.html": "/Clone-Netflix-App-with-Reactjs/index.html",
-    "static/css/main.960f8fcd.chunk.css.map": "/Clone-Netflix-App-with-Reactjs/static/css/main.960f8fcd.chunk.css.map",
-    "static/js/2.95009927.chunk.js.LICENSE.txt": "/Clone-Netflix-App-with-Reactjs/static/js/2.95009927.chunk.js.LICENSE.txt"
+    "main.css": "/Netflix-Clone-App-with-Reactjs/static/css/main.960f8fcd.chunk.css",
+    "main.js": "/Netflix-Clone-App-with-Reactjs/static/js/main.ffd6b437.chunk.js",
+    "main.js.map": "/Netflix-Clone-App-with-Reactjs/static/js/main.ffd6b437.chunk.js.map",
+    "runtime-main.js": "/Netflix-Clone-App-with-Reactjs/static/js/runtime-main.743c42ee.js",
+    "runtime-main.js.map": "/Netflix-Clone-App-with-Reactjs/static/js/runtime-main.743c42ee.js.map",
+    "static/js/2.95009927.chunk.js": "/Netflix-Clone-App-with-Reactjs/static/js/2.95009927.chunk.js",
+    "static/js/2.95009927.chunk.js.map": "/Netflix-Clone-App-with-Reactjs/static/js/2.95009927.chunk.js.map",
+    "index.html": "/Netflix-Clone-App-with-Reactjs/index.html",
+    "static/css/main.960f8fcd.chunk.css.map": "/Netflix-Clone-App-with-Reactjs/static/css/main.960f8fcd.chunk.css.map",
+    "static/js/2.95009927.chunk.js.LICENSE.txt": "/Netflix-Clone-App-with-Reactjs/static/js/2.95009927.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ca1b3f5.js",
+    "static/js/runtime-main.743c42ee.js",
     "static/js/2.95009927.chunk.js",
     "static/css/main.960f8fcd.chunk.css",
     "static/js/main.ffd6b437.chunk.js"
